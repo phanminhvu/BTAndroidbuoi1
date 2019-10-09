@@ -1,0 +1,11 @@
+-b1. khoi dong xampp
+- b2. tao 1 csdl cho wp o http://localhost/phpmyadmin/
+b3. tai wp ve giai nen thu muc htdocs cua xampp. C:\xampp\htdocs
+b4. chay website, lan đầu thì cần cài đặt, những lần sau k cần.
+- trang quan trị : http://localhost/truonghoc/wp-admin/ 
+
+u/p: admin/admin@123
+
+- xong rồi đấy, giờ tìm 1 template phù hợp. cài vào là được.
+- bình thường template free thì k đẹp.
+- cài xong rồi đấy.
